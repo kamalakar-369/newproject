@@ -1,5 +1,5 @@
 #include <iostream>
-#include <bits/stc++.h>
+#include <bits/std++.h>
 //header file added
 using namespace std;
 int main()
