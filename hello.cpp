@@ -6,5 +6,5 @@ int main()
 {
   int n;
   cin>>n;
-  cout<<n<<endl;
+  cout<<n+2<<endl;
 }
